@@ -1,6 +1,6 @@
- import streamlit as st
-  import pandas as pd
-  import datetime
+import streamlit as st
+import pandas as pd
+import datetime
 
   # 1. CONFIGURATION
   SECTION_DB = {
